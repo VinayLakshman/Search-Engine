@@ -1,0 +1,22 @@
+div
+{
+    border: solid;
+    border-width: 5px;
+    border-color: springgreen;
+    width: 450px;
+    height: 100px;
+    background-color: steelblue;
+    text-align: center;
+    margin: 20px;
+}
+h1
+{
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: bold;
+    color: chartreuse;
+}
+#dandy
+{
+    font-style: italic;
+}
