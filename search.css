@@ -6,6 +6,25 @@
     height: 100px;
     float:left;
 }
+
+@media screen and (max-width: 600px) {
+
+    input[type=submit]
+    {
+
+        position: relative;
+        top: 50px;
+       
+
+    }
+    input[type=text]
+    {
+        width:180px;
+        height: 20px;
+    }
+
+}
+
 #search
 {
     text-align: left;
