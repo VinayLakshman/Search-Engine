@@ -7,14 +7,14 @@
     float:left;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 400px) {
 
     input[type=submit]
     {
 
         position: relative;
-        top: 10px;
-        left: -150px;
+        top: 40px;
+        left: -180px;
        
 
     }
